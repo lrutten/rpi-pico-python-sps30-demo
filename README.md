@@ -9,7 +9,7 @@ These pins are used:
 Use the `Makefile` to copy the Python code to the board.
 A copy to `main.py` can be made in order to start the demo at power-up.
 
-The source code is taken from the following repository and is adapted to the Raspberry Pico.
+The source code is taken from the following repository and is adapted to the Raspberry Pi Pico.
 
 * [https://github.com/dvsu/sps30.git](https://github.com/dvsu/sps30.git)
 
